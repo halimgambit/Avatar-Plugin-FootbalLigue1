@@ -1,0 +1,14 @@
+{
+	"modules": { 
+		"FootbalLigue1": {
+			"version": "1.0",
+			"name": "ligue1",
+			"rules": {
+				"classementFoot": ["ligue 1 standing","ligue * 1 * standing","ligue 1 * ranking","the ligue 1 ranking","classification * ligue 1"],
+				"resultatFoot": ["league 1 result","league * 1 * result"],
+				"calendrierFoot": ["league 1 calendar","league * 1 * calendar"]
+			}
+		}
+	}
+}
+			
